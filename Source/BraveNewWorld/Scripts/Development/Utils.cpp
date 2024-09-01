@@ -3,7 +3,7 @@
 
 #include "Utils.h"
 
-void UUtils::PrintError(const UObject* WorldContextObject, const FText InText)
+void UUtils::PrintError(const UObject* WorldContextObject, FText InText)
 {
 	if (GEngine)
 	{
@@ -14,4 +14,9 @@ void UUtils::PrintError(const UObject* WorldContextObject, const FText InText)
 #endif
 		}
 	}
+}
+
+void UUtils::OnCastFailed(const UObject* WorldContextObject, const FText CallerName)
+{
+	PrintError(WorldContextObject, FText::Format(INVTEXT("{0} {1}"), INVTEXT("Error casting in"), CallerName));
 }

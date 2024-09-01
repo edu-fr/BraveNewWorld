@@ -15,6 +15,9 @@ class BRAVENEWWORLD_API UUtils : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 
 public:
-	UFUNCTION(BlueprintCallable, Category="Utils")
+	UFUNCTION(BlueprintCallable, meta=(WorldContext="WorldContextObject", CallableWithoutWorldContext, Keywords = "log print error", DevelopmentOnly), Category="Development")
 	static void PrintError(const UObject* WorldContextObject, const FText InText);
+
+	UFUNCTION(BlueprintCallable, meta=(WorldContext="WorldContextObject", CallableWithoutWorldContext, Keywords = "on cast error print log"), Category="Development")
+	static void OnCastFailed(const UObject* WorldContextObject, const FText CallerName = INVTEXT("base"));
 };
