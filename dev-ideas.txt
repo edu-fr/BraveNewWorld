@@ -1,0 +1,10 @@
+História:
+- Aventura se inicia com os heróis marchando em direção ao portão do inferno, com o objetivo de salvar alguém (?);
+- Dungeons podem ser locais em que tragédias ou coisas ruins acontecem, e nosso objetivo foi atraído pra lá;
+
+Mecanicas de jogo:
+- Buffs de roguelike entre cara parte da fase;
+
+Detalhes de mecanicas de jogo:
+ideas de buffs:
+- malevolencia do lol;
