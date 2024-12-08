@@ -1,9 +1,7 @@
 anotacoes uteis de desenvolvimento
 
 proxima sessao:
-- continuar tutorial IA animacao; 
-
+- corrigir animação de ataque que nao está tocando;
 
 melhorias:
-- existe um evento que avisa quando o personagem chega a altura maxima do pulo;
-- trigger de corrida ainda nao está 100%; 
+- personagem consegue correr parado!
