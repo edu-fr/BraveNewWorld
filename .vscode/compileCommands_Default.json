@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\Source\\BraveNewWorld\\BraveNewWorld.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\.vscode\\compileCommands_Default\\BraveNewWorld.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\Source\\BraveNewWorld\\BraveNewWorld.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\.vscode\\compileCommands_Default\\BraveNewWorld.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\Source\\BraveNewWorld\\BraveNewWorld.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\.vscode\\compileCommands_Default\\BraveNewWorld.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\Source\\BraveNewWorld\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\.vscode\\compileCommands_Default\\BraveNewWorld.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\Source\\BraveNewWorld\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\edufe\\Game development\\Unreal Projects\\BraveNewWorld\\.vscode\\compileCommands_Default\\BraveNewWorld.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
